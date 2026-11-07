@@ -214,4 +214,4 @@ Speccy is offered as a full free version, with all features and updates included
 Unlock the full potential of your hardware with Speccy today! Download your official copy now and start analyzing your PC like a pro!
 
 ---
-**Last updated:** 2026-11-07 14:30:21 UTC
+**Last updated:** 2026-11-07 19:08:57 UTC
